@@ -1,0 +1,2 @@
+sentence <- c('walk', 'the', 'straight')
+sentence[3] #accessing the third value from the vector
